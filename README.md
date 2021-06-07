@@ -22,7 +22,6 @@ Link Installation :
 4. Paste the links to filtering list in Ublock Origins
 5. Done , the filter is not updated automatically so you need to update manually in case there is an update.
 
-More detail in this video : https://drive.google.com/file/d/1C__1R0Lx12T7gIldE-gPDn7vPAKdynxy/view?usp=sharing
 
 
 # PSA
