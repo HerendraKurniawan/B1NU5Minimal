@@ -9,6 +9,7 @@
 ||binusmaya.binus.ac.id/services/ci/index.php/general/isFilledLabQuestionnaire/
 ! Stop requesting OTP is validated or not
 ||binusmaya.binus.ac.id/services/ci/index.php/smsToken/checkOtp
+||binusmaya.binus.ac.id/services/ci/index.php/blocking/link_redirect/smsToken-smsTokenLogin
 ! Stop Requesting Student Profile Update
 ||binusmaya.binus.ac.id/services/ci/index.php/blocking/link_redirect/Studentservices-studentProfile-update
 ! Bruh
