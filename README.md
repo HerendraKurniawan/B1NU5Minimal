@@ -1,6 +1,5 @@
-# B!NU5Minimal
-This is a block list to prevent pop up showing in your LMS.
-
+# B!NU5Minimal (Legacy Website)
+This is a block list to prevent pop up showing in your LMS (binusmaya.binus.ac.id).
 Features :
 1. Tracking Prevention
 2. Survey Blocker
